@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Beepis Boopis
+Wherever you go, there you are
